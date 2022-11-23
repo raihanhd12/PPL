@@ -9,7 +9,7 @@
 <table>
   <tr align="center">
     <td>
-    [<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://youtu.be/uqWMwV3IB00 "Now in Android: 55")
+    [<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://youtu.be/uqWMwV3IB00)
     <td>
   </tr>
  </table>
